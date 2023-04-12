@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshjain8
-- 👀 I’m interested in knowing and learning the significance of programming languages.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects that will clear my basic understanding of python.
+- 👀 I’m interested in knowing and how to build large scalable systems.
+- 🌱 I solve coding problems and currently learning web development . 
+- 💞️ I’m looking to collaborate on projects that will help me become a proficient software developer.
 - 📫 How to reach me : ig=@akshjain8 , akshjain2001@gmail.com
 
 <!---
